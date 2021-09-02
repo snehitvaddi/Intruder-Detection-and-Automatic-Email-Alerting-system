@@ -4,6 +4,8 @@ This application/project detects unknown people entered into a specific camera v
 * It is a dlib’s state-of-the-art face recognition module built with deep learning backend. <br>
 * The model has an accuracy of 96%(approx) in detecting intruders.
 
+**Looking for any Btech/Mtech/Academic projects? Ping me, I have a bunch📚**
+
 ### Ping Me:
 ### <div><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-color.png" width="25" height="25"> &nbsp; Linkedin: https://www.linkedin.com/in/snehit-vaddi/</div>
 
