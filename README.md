@@ -3,13 +3,14 @@ This application/project detects unknown people entered into a specific camera v
 * Here I used face_recognition python module. <br>
 * It is a dlib’s state-of-the-art face recognition module built with deep learning backend. <br>
 * The model has an accuracy of 96%(approx) in detecting intruders.
-
+#####
 **Looking for any Btech/Mtech/Academic projects? Ping me, I have a bunch📚**
-
-### Ping Me:
-### <div><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-color.png" width="25" height="25"> &nbsp; Linkedin: https://www.linkedin.com/in/snehit-vaddi/</div>
+#####
 
 ## Sample Output of mailed intruder images
 <img src="https://github.com/snehitvaddi/Intruder-detection-email-submission/blob/master/intruders/a1.PNG" width="500" height="300">
+
+#### Lets connect:
+### <div><a href="https://www.linkedin.com/in/snehit-vaddi/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-color.png" width="25" height="25"> Snehit Vaddi </a></div>
 
 
